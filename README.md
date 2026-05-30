@@ -1,2 +1,5 @@
 # NCSU_ST554_Project1_Task2
-Course Title: Analysis of Big Data / My Portion of Group Project / Project 1
+Course Title: Analysis of Big Data
+Project 1 / Group Project
+Task 2 by Lanette Tyler
+(with feedback from project partners incorporated)
